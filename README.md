@@ -1,16 +1,41 @@
-### Hi there 👋
+## 🌟 Hello! I'm Lucca
 
-<!--
-**LuccaKG/LuccaKG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Based in: Jaguariúna/SP - Brazil
 
-Here are some ideas to get you started:
+👨‍💻 Embedded Software Intern for Android - Camera Engine Team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about innovation and crafting solutions that make a difference.
+
+🔍 Currently diving deep into IA/ML, Cybersecurity and Embedded Android.
+
+## 🛠 My Tools & Technologies
+
+🐍 Python
+
+👨‍💻 C/C++
+
+🦾 Assembly
+
+#️⃣ Basic C#
+
+## 🎉 Recent Achievements
+
+🎓 Pursuing a Bachelor's Degree in Electrical Engineering at UNICAMP
+
+🎓 Certified Technician in Electronics at ETEC João Belarmino
+
+🏢 Started my journey at Motorola Mobility
+
+## 📈 GitHub Statistics
+
+![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaKG&show_icons=true&theme=transparent&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaKG&theme=transparent&layout=compact)
+
+## 📬 Let's Connect!
+
+Always open to new opportunities and collaborations.
+
+📧 luccagoncalves2000@gmail.com
+
+🔗 https://www.linkedin.com/in/luccagoncalves/
