@@ -28,8 +28,6 @@
 
 ## 📈 GitHub Statistics
 
-![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaKG&show_icons=true&theme=transparent&layout=compact)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaKG&theme=transparent&layout=compact)
 
 ## 📬 Let's Connect!
