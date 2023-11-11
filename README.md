@@ -34,6 +34,6 @@
 
 Always open to new opportunities and collaborations.
 
-📧 luccagoncalves2000@gmail.com
+📧 [Send me an email](mailto:luccagoncalves2000@gmail.com)
 
-🔗 https://www.linkedin.com/in/luccagoncalves/
+🔗 [Reach me on LinkedIn](https://www.linkedin.com/in/luccagoncalves/)
