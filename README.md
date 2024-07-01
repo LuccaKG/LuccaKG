@@ -18,13 +18,13 @@
 
 #️⃣ Basic C#
 
-## 🎉 Recent Achievements
+## 🎉 Achievements
 
-🎓 Pursuing a Bachelor's Degree in Electrical Engineering at UNICAMP
+🎓 Enrolled in Bachelor's degree in Electrical Engineering at UNICAMP
 
 🎓 Certified Technician in Electronics at ETEC João Belarmino
 
-🏢 Started my journey at Motorola Mobility
+🏢 Developer at Motorola Mobility
 
 ## 📈 GitHub Statistics
 
