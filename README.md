@@ -2,7 +2,7 @@
 
 📍 Based in: Jaguariúna/SP - Brazil
 
-👨‍💻 Embedded Software Intern for Android - Camera Engine Team.
+👨‍💻 Embedded Software Developer for Android - Camera Engine Team.
 
 🚀 Passionate about innovation and crafting solutions that make a difference.
 
@@ -13,6 +13,8 @@
 🐍 Python
 
 👨‍💻 C/C++
+
+📝 Bash
 
 🦾 Assembly
 
