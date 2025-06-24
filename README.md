@@ -30,7 +30,8 @@
 
 ## 📈 GitHub Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaKG&theme=transparent&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaKG&hide=jupyter%20notebook&layout=compact&theme=transparent)
+
 
 ## 📬 Let's Connect!
 
