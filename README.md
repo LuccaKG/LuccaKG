@@ -26,7 +26,7 @@
 
 🎓 Certified Technician in Electronics at ETEC João Belarmino
 
-🏢 Developer at Motorola Mobility
+🏢 Developer at Instituto de Pesquisas Eldorado 
 
 ## 📈 GitHub Statistics
 
