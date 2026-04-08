@@ -22,7 +22,7 @@
 
 ## 🎉 Achievements
 
-🎓 Enrolled in Bachelor's degree in Electrical Engineering at UNICAMP
+🎓 Graduated with a Bachelor's degree in Electrical Engineering at UNICAMP
 
 🎓 Certified Technician in Electronics at ETEC João Belarmino
 
